@@ -85,10 +85,10 @@ The backend is built using **Node.js** and **Express**, handling API requests, A
 The Healthcare Symptom Checker uses MySQL as its primary database to store and manage user interactions and chat history efficiently.
 
  ### Key Features:
-	•	Stores user symptom queries and AI-generated responses.
-	•	Maintains timestamps for each conversation for tracking and analysis.
-	•	Ensures data persistence even after the server restarts.
-	•	Uses secure environment variables (.env) to manage database credentials.
+	- Stores user symptom queries and AI-generated responses.
+	- Maintains timestamps for each conversation for tracking and analysis.
+	- Ensures data persistence even after the server restarts.
+	- Uses secure environment variables (.env) to manage database credentials.
 
 
 ## Output Screenshots
