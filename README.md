@@ -92,3 +92,14 @@ The Healthcare Symptom Checker uses MySQL as its primary database to store and m
 
 
 ## Output Screenshots
+
+## Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 💬 Chat Interface
+![Chat Interface](./screenshots/chat.png)
+
+### 📜 Chat History
+![Chat History](./screenshots/history.png)
