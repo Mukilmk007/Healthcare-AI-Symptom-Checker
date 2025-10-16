@@ -81,6 +81,4 @@ The backend is built using **Node.js** and **Express**, handling API requests, A
 
 ---
 
-## Environment Variables
-
-Create a `.env` file in the **backend directory** and include:
+## Output Screenshots
