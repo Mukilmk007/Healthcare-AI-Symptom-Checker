@@ -96,11 +96,11 @@ The Healthcare Symptom Checker uses MySQL as its primary database to store and m
 ### Symptoms queries by user and LLM generating probable conditions:
 ![Home Page](./screenshots/1.png)
 
-### 💬 Chat Interface
+### LM-generated recommended diagnosis and advice to follow:
 ![Chat Interface](./screenshots/2.png)
 
-### 📜 Chat History
+### Chat history showing users querisand the LLM generated responses.
 ![Chat History](./screenshots/3.png)
 
-### 📜 close
+### On clicking delete icon, the queries and responses are deleted.
 ![Chat History](./screenshots/4.png)
